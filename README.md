@@ -14,7 +14,7 @@
 
 🧐 Échale un vistazo a mi [![Linkedin Badge](https://img.shields.io/badge/-AlexHerrerax-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexherrerax/)](https://www.linkedin.com/in/alexherrerax/) 
 
-Aqui puedes revisar mis proyectos https://github.com/AlexHerrerax?tab=repositories
+Aqui puedes revisar mis proyectos https://alexherrerax.github.io/
 
 </em></p>
 
