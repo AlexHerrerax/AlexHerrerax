@@ -8,7 +8,7 @@
 
 💻 Me apasiona todo lo que tenga que ver con la tecnología informática. 
 
-👨‍💻 Actualmente busco desarrollarme como programador web, aprender y conocer todo lo necesario para entregar un producto de calidad.
+👨‍💻 Actualmente busco desarrollarme como programador web, aprender y conocer todo lo necesario para entregar un servicio de calidad.
 
 💬 Fiel creyente de que la ayuda mutua y la comunicación dentro del equipo es el pilar fundamental para concretar cualquier proyecto.
 
